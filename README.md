@@ -11,3 +11,5 @@ Projeto desenvolvido como Trabalho de Conclusão de Curso no curso de Ciência d
 - `tcc_2_Jonatha.ipynb`
 
 👨‍🎓 Autor: Jonatha Lisboa
+
+[🔗 Abrir no Google Colab](https://colab.research.google.com/drive/1-0W-9Vo2Ob_Al1o6FU_H1XuJektGOwRH?usp=sharing)
